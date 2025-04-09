@@ -1,0 +1,6 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Octane-Security/public-schemas/refs/heads/main/octanerc.json",
+    "pathsToIgnore": [
+        "**/baby_wallet/**"
+    ]
+}
