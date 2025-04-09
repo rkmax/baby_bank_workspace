@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/rkmax/Development/Octane/test-repos/baby_bank_workspace/packages/baby_wallet/contracts/BabyWallet.sol": {
+      "lastModificationDate": 1744228168462,
+      "contentHash": "b22fbbed2b2f6051dc98036452479835",
+      "sourceName": "contracts/BabyWallet.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "BabyWallet"
+      ]
+    }
+  }
+}

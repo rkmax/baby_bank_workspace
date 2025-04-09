@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/rkmax/Development/Octane/test-repos/baby_bank_workspace/packages/baby_bank/contracts/BabyBank.sol": {
+      "lastModificationDate": 1744228181939,
+      "contentHash": "7cf956b1049707e40d284ab1f9f31dac",
+      "sourceName": "contracts/BabyBank.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "BabyBank"
+      ]
+    }
+  }
+}
