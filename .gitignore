@@ -1,2 +1,38 @@
-node_modules
-.yarn
+node_modules/
+.yarn/
+.pnp.*
+.yarnrc.yml
+
+# Hardhat files
+artifacts/
+cache/
+typechain/
+coverage/
+coverage.json
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Build output
+dist/
+build/
+
+# Test output
+test-coverage/
+coverage/
+
+# Misc
+*.tsbuildinfo
